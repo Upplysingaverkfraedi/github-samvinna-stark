@@ -1,0 +1,1 @@
+print('Halló Heimur, ég heiti Björn Hermann')
