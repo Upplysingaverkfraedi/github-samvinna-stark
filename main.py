@@ -1,1 +1,1 @@
-print('Halló Heimur, ég heiti Björn Hermann')
+print('Halló Heimur, ég heiti Björn Hermann Hermannsson')
